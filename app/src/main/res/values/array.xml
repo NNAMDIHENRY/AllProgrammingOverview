@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="programmingLanguagesArray">
+        <item>C</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>VB.NET</item>
+        <item>R</item>
+        <item>SQL</item>
+        <item>GO</item>
+        <item>Swift</item>
+        <item>Perl</item>
+        <item>Assembly Language</item>
+        <item>Ruby</item>
+        <item>MATLAB</item>
+        <item>Classic Visual Basic</item>
+        <item>Apache Groovy</item>
+        <item>Object-C</item>
+        <item>Rust</item>
+        <item>SAS</item>
+        <item>Scratch</item>
+        <item>D</item>
+        <item>Dart</item>
+        <item>PL/SQL</item>
+        <item>Logo</item>
+        <item>Delphi</item>
+        <item>Cobol</item>
+        <item>Kotlin</item>
+        <item>OpenEdge ABL</item>
+        <item>Julia</item>
+        <item>ABAP</item>
+        <item>Scala</item>
+        <item>Transact-SQL</item>
+        <item>Scheme</item>
+        <item>Prolog</item>
+        <item>Ada</item>
+        <item>Lisp</item>
+        <item>Apex</item>
+        <item>Lua</item>
+        <item>Fortran</item>
+        <item>Haskell</item>
+        <item>Hack</item>
+        <item>VBScript</item>
+        <item>Visual FoxPro</item>
+        <item>TypeScript</item>
+        <item>AWK</item>
+        <item>ActionScript</item>
+        <item>Tcl</item>
+        <item>Smalltalk</item>
+        <item>ABC</item>
+        <item>Alice</item>
+        <item>APL</item>
+        <item>AutoLisp</item>
+        <item>Bash</item>
+        <item>bc</item>
+        <item>BourneShell</item>
+        <item>CShell</item>
+        <item>Clipper</item>
+        <item>Cloujure</item>
+        <item>CoffeeSCRIPT</item>
+        <item>CommonLisp</item>
+        <item>Crystal</item>
+        <item>CT</item>
+        <item>Elixir</item>
+        <item>EmacsLisp</item>
+        <item>Erlang</item>
+        <item>Euphorial</item>
+        <item>F#</item>
+        <item>Forth</item>
+        <item>Genie</item>
+        <item>Icon</item>
+        <item>IDL</item>
+        <item>Inform</item>
+        <item>Io</item>
+        <item>Korn Shell</item>
+        <item>LabVIEW</item>
+        <item>Ladder Logic</item>
+        <item>LiveCode</item>
+        <item>Maple</item>
+        <item>Mercury</item>
+        <item>ML</item>
+        <item>MQL4</item>
+        <item>NATURAL</item>
+        <item>NXT-G</item>
+        <item>OpenCL</item>
+        <item>Oz</item>
+        <item>PL/I</item>
+        <item>PostScript</item>
+        <item>Q</item>
+        <item>Racket</item>
+        <item>Red</item>
+        <item>Ring</item>
+        <item>RPG</item>
+        <item>S</item>
+        <item>SPARK</item>
+        <item>Spata</item>
+        <item>Vala</item>
+        <item>Verilog</item>
+        <item>VHDL</item>
+
+    </string-array>
+
+</resources>

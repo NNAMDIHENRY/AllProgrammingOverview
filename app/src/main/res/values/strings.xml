@@ -1,0 +1,1491 @@
+<resources>
+
+
+    <string name="app_name">All Programming Overview</string>
+    <string name="home">Home</string>
+    <string name="techNews">Tech News</string>
+    <string name="makeMoney">Make Money</string>
+    <string name="languages">Languages</string>
+    <string name="overViewIntro">This is an activity for financial discusion</string>
+    <string name="languageListText">Click to view its description</string>
+    <string name="cOverview">
+ &lt;span style="background:black"&gt;
+
+        &lt;b&gt;  &lt;h1&gt; What is &lt;a href=””>C&lt;/a&gt; ?  &lt;/h1&gt; &lt;/b&gt;
+&lt;p&gt;
+    C was the first language to work on a higher level,though it is a middle level programming language, opening the door for the possibility of  developing complex software with  less knowledge.
+    Languages like C++, C#, Objective C, Java, Python, JavaScript, borrowed most of their basics fro From C language
+&lt;/p&gt;
+        &lt;p&gt;
+    &lt;a href="https://techvidvan.com/tutorials/applications-of-c-language"&gt;Techvidvan.com&lt;/a&gt;  said \"C is one of the fastest and most simple programming languages. C is fast, portable and has a rich library. Being one of the oldest, it is still preferred by many companies and backend developers. C programming language is being used in every domain such as hardware and software development, embedded systems, databases etc. But nowadays, the usage of C programming language is decreasing. \”&lt;/p&gt;
+&lt;p&gt;
+    C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.
+    C is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming.
+    (Definition taken from &lt;a href="https://en.m.wikipedia.org/wiki/C_(programming_language)"&gt;Wikipedia&lt;/a&gt;
+&lt;/p&gt;
+   &lt;b&gt; &lt;h1&gt; APPLICATIONS OF C &lt;h1&gt; &lt;/b&gt;
+        &lt;ul&gt;
+  &lt;li&gt;  C is used to build operating systems;
+  &lt;li&gt;  C language is used to build compilers, interpreters, libraries for other Programming languages.
+  &lt;li&gt;  C is used for building drivers, and utilities.
+  &lt;li&gt;  C can efficiently work on enterprise applications, games, graphics, and applications requiring calculations.
+  &lt;li&gt;  Because of its speed, it can be used to build complex sofwares.
+  &lt;li&gt;  C is mostly used for developing Desktop applications.
+&lt;/ul&gt;
+&lt;h4&gt;C is behind the building blocks of some of the :&lt;h4&gt;
+        &lt;ul&gt;
+   &lt;li&gt; Operating Systems.
+   &lt;li&gt; Assemblers.
+   &lt;li&gt; Text Editors.
+   &lt;li&gt; Print Spoolers.
+   &lt;li&gt; Modern Programs.
+   &lt;li&gt; Databases.
+   &lt;li&gt; Utilities.
+        &lt;ul&gt;
+        &lt;p&gt;
+    C is often chosen over interpreted languages because of its speed and stability
+    Infact, if you are interested in building complex(I mean complex) systems, C language is ready waiting for you.
+&lt;/p&gt;
+
+   &lt;b&gt; &lt;h1&gt; HISTORY OF C&lt;/h1&gt; &lt;/b&gt;
+    &lt;p&gt;
+    A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system.During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages, with C compilers from various vendors available for the majority of existing computer architectures and operating systems.
+    The origin of C is closely tied to the development of the Unix operating system, originally implemented in assembly language on a PDP-7 by Dennis Ritchie and Ken Thompson, incorporating several ideas from colleagues. Eventually, they decided to port the operating system to a PDP-11. The original PDP-11 version of Unix was also developed in assembly language.
+    Thompson desired a programming language to make utilities for the new platform. At first, he tried to make a Fortran compiler, but soon gave up the idea. Instead, he created a cut-down version of the recently developed BCPL systems programming language. The official description of BCPL was not available at the time, and Thompson modified the syntax to be less wordy, producing the similar but somewhat simpler B.However, few utilities were ultimately written in B because it was too slow, and B could not take advantage of PDP-11 features such as byte addressability.
+&lt;/p&gt;
+    &lt;p&gt;
+    In 1972, Ritchie started to improve B, most notably adding data typing for variables, which resulted in creating a new language C.
+    [History taken From &lt;a href="https://en.m.wikipedia.org/wiki/C_(programming_language)"&gt;Wikipedia&lt;/a&gt;]
+&lt;/p&gt;
+    &lt;br&gt;
+        &lt;b&gt;  &lt;h1&gt; PRODUCTS OF C  &lt;h1&gt; &lt;/b&gt;
+     &lt;ul&gt;
+   &lt;li&gt; Windows Kernel,
+   &lt;li&gt; Linux Kernel ,
+   &lt;li&gt; Apple’s OS X kernel,
+   &lt;li&gt; Adobe Photoshop,
+   &lt;li&gt; MySQL,
+   &lt;li&gt; Standard libraries in python,
+   &lt;li&gt; Python interpreter,
+   &lt;li&gt; Linux OS Was written from Scratch using C ·
+   &lt;li&gt; Java is completely written in C.
+   &lt;li&gt; Android OS (The kernel was written in C only)
+   &lt;li&gt; iOS platform APPS was written in C.
+&lt;/ul&gt;
+    Kudos for C programming language.[THE FATHER FOR ALL].
+         &lt;/span&gt;
+    </string>
+    <string name="javaOverView">
+        &lt;b style="color:black, font-size:20px"&gt;
+
+        &lt;h1&gt;What is &lt;a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/"&gt;Java™ &lt;a&gt; ? &lt;h1&gt;
+
+        &lt;p&gt; Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+        &lt;br&gt;It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. (Definition taken from
+        &lt;a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29?wprov=sfla1">wikipedia.org&lt;a&gt;).
+        &lt;p&gt;
+
+        &lt;p&gt;The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language.
+        &lt;br&gt; It is normally compiled to the bytecode instruction set and binary format defined in the Java Virtual Machine Specification.
+        &lt;p&gt;
+        &lt;p&gt;Java is a general-purpose, versatile and popular programming language.
+        &lt;br&gt;It\’s great as a first language because it is concise and easy to read, and it is also a good language to have in any programmer\’s stack as it can be used for everything from web development to software development and scientific applications.(Copied from  &lt;a href="https://www.udemy.com" &gt;Udemy &lt;a&gt;).
+        &lt;p&gt;
+        Java is Write Once Run Anywhere(WORA) means that java bytecode can run on any device of any kind that supports java.
+
+        &lt;h1&gt;APPLICATIONS OF JAVA: &lt;h1&gt;
+        &lt;p&gt;
+        1. Android App Development &lt;br&gt;
+        2. Web Applications&lt;br&gt;
+        3. Internet of Things&lt;br&gt;
+        4. Big Data&lt;br&gt;
+        5. Desktop Applications&lt;br&gt;
+        6. Game Development &lt;br&gt;
+        7. Software Development &lt;br&gt;
+        &lt;p&gt;
+        &lt;p&gt;  Java is very good in most of what we do in internet today. Java is very powerful that it can be used to build softwares, it can be embedded in any device as a software and the device serve as the hardware.
+        &lt;br&gt;For example, SimCards(Java can be embedded in SimCards as a software environment); digital watches;  &lt;p&gt;
+        &lt;p&gt;   If you are looking into developing mobile devices (mainly android) chosing java is a right choice.
+        &lt;br&gt;Although kotlin also plays the same role in android but Java is often preferred by most developers. &lt;p&gt;
+        &lt;p&gt;If you are looking into developing a software on your own, Java is there to serve you.  &lt;p&gt;
+        &lt;p&gt; According to  &lt;a href="https://stackshare.io/java" &gt;Stackshare.io &lt;a&gt; these are some of the companies that use java.
+        &lt;br&gt;
+        &lt;ul&gt;
+        &lt;li&gt;  Uber. &lt;br&gt;
+        &lt;li&gt;  Airbnb.&lt;br&gt;
+        &lt;li&gt;  Google. &lt;br&gt;
+        &lt;li&gt;  Netflix. &lt;br&gt;
+        &lt;li&gt;  Pinterest. &lt;br&gt;
+        &lt;li&gt;  Instagram.; &lt;br&gt;
+        &lt;li&gt;  Spotify. &lt;br&gt;
+        &lt;li&gt; Amazon. &lt;br&gt;
+        &lt;ul&gt;
+        &lt;p&gt;
+
+        &lt;h1&gt;PRODUCTS OF JAVA &lt;h1&gt;
+        &lt;p&gt;
+        &lt;ul&gt;
+        &lt;li&gt; Maestro Mars Rover  &lt;br&gt;
+        &lt;li&gt; JavaFX Deep Space Trajectory Explorer. &lt;br&gt;
+        &lt;li&gt; NASA WorldWind &lt;br&gt;
+        &lt;li&gt;JMARS and JMoon.  &lt;br&gt;
+        &lt;li&gt; Wikipedia Search   &lt;br&gt;
+        &lt;li&gt; Minecraft   &lt;br&gt;
+        &lt;li&gt;Java applets   &lt;br&gt;
+        &lt;li&gt; NetBeans and the Eclipse IDE.   &lt;br&gt;
+        &lt;li&gt; IntelliJ IDEA.
+        &lt;ul&gt;
+        To name a few…&lt;br&gt;
+        You can read the articles about the platforms built with Java at:  &lt;a href="https://blogs.oracle.com/javamagazine/post/the-top-25-greatest-java-apps-ever-written">blogs.oracle.com &lt;a&gt;
+        &lt;p&gt;
+
+        &lt;h1&gt;HISTORY OF JAVA &lt;h1&gt;
+        &lt;p&gt;
+        As we all know  guys, Java was developed by James Gosling in 1990s at Sun Microsystems(now acquired by Oracle corporation). Java was first called Oak after an oak tree that stood outside Gosling’s office.
+        Read on to  &lt;a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29?wprov=sfla1">wikipedia.org &lt;a&gt;  to know more.
+        &lt;p&gt;
+        &lt;p&gt;Below history is sourced from  &lt;a href="https://www.geeksforgeeks.org/the-complete-history-of-java-programming-language/">GeeksforGeeks &lt;a&gt;&lt;br&gt;
+        Java is an Object-Oriented programming language developed by James Gosling in the early 1990s.
+        &lt;br&gt;The team initiated this project to develop a language for digital devices such as set-top boxes, television, etc.
+        &lt;br&gt;Originally C++ was considered to be used in the project but the idea was rejected for several reasons(For instance C++ required more memory).
+        &lt;br&gt;Gosling endeavoured to alter and expand C++ however before long surrendered that for making another stage called Green.
+        &lt;br&gt; James Gosling and his team called their project \“Greentalk\” and its file extension was .gt and later became to known as \“OAK\”. &lt;p&gt;
+
+        &lt;p&gt;Why \“Oak\”?
+        The name Oak was used by Gosling after an oak tree that remained outside his office. Also, Oak is an image of solidarity and picked as a national tree of numerous nations like the U.S.A., France, Germany, Romania, etc.
+        &lt;br&gt; But they had to later rename it as “JAVA” as it was already a trademark by Oak Technologies.
+        &lt;p&gt;
+        &lt;p&gt;Gosling and his team did a brainstorm session and after the session, they came up with several names such as JAVA, DNA, SILK, RUBY, etc. &lt;p&gt;
+
+        &lt;p&gt;Java name was decided after much discussion since it was so unique. The name Java originates from a sort of espresso bean, Java.
+        &lt;br&gt;Gosling came up with this name while having a coffee near his office.
+        &lt;br&gt;Java was created on the principles like :
+        &lt;ul&gt;
+        &lt;li&gt; Being Robust,
+        &lt;br&gt; &lt;li&gt; Being Portable,
+        &lt;br&gt; &lt;li&gt; Being Platform Independent,
+        &lt;br&gt; &lt;li&gt; High Performance,
+        &lt;br&gt; &lt;li&gt; Being Multithreaded, etc. and was called one of the Ten Best Products of 1995 by the TIME MAGAZINE. &lt;p&gt;
+        &lt;ul&gt;
+        &lt;p&gt;Currently, Java is used in internet programming, mobile devices, games, e-business solutions, etc.
+        &lt;br&gt; The Java language has experienced a few changes since JDK 1.0 just as various augmentations of classes and packages to the standard library.
+        &lt;br&gt;In Addition to the language changes, considerably more sensational changes have been made to the Java Class Library throughout the years, which has developed from a couple of hundred classes in JDK 1.0 to more than three thousand in J2SE 5 &lt;p&gt;
+        &lt;b&gt;
+    </string>
+    <string name="pythonOverview">
+
+    &lt;b&gt; &lt;h1&gt; What is &lt;a href="https://www.python.org/"&gt;Python&lt;/a&gt;? &lt;/b&gt; &lt;/h1&gt;
+     &lt;p&gt;
+Python is a multi-paradigm programming language, in python, Object-oriented programming and structured programming are fully supported.
+     &lt;/p&gt;
+
+        &lt;p&gt;
+As &lt;a href="https://www.python.org/doc/essays/blurb/"&gt;Python.org&lt;/a&gt; said:
+ \”Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        Its high-level built in data structures, combined with dynamic typing and dynamic binding,
+        make it very attractive for Rapid Application Development, as well as for use as a scripting
+        or glue language to connect existing components together.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        Python\’s simple, easy to learn syntax
+        emphasizes readability and therefore reduces the cost of program maintenance.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        Python supports modules and packages,
+        which encourages program modularity and code reuse.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        The Python interpreter and the extensive standard library are available in source
+        or binary form without charge for all major platforms, and can be freely distributed.\”
+         &lt;/p&gt;
+
+&lt;b&gt; &lt;h1&gt; APPLICATIONS OF PYTHON &lt;/h1&gt; &lt;/b&gt;
+      &lt;b&gt; &lt;h5&gt;  Python is used for: &lt;/b&gt; &lt;/h5&gt;
+        &lt;ul&gt;
+&lt;li&gt;Web Development,
+&lt;li&gt;Gui Development,
+&lt;li&gt;Software Development,
+&lt;li&gt;System Administration,
+&lt;li&gt;Business Applications,
+&lt;li&gt;AI and machine learning,
+&lt;li&gt;SEO,
+&lt;li&gt;Game Development,
+&lt;li&gt;Data Analytics,
+&lt;li&gt;Scientific and Numeric.
+&lt;/ul&gt;
+
+&lt;b&gt; &lt;h1&gt; PRODUCTS OF PYTHON &lt;/h1&gt; &lt;/b&gt;
+        &lt;ul&gt;
+&lt;li&gt;Pinterest,
+&lt;li&gt;Disqus,
+&lt;li&gt;Spotify,
+&lt;li&gt;Dropbox,
+&lt;li&gt;Uber,
+&lt;li&gt;Reddit,
+&lt;li&gt;Makehuman(a web app),
+&lt;li&gt;Bloodhound(a web app),
+&lt;li&gt;Mailman(a web app),
+&lt;li&gt;Trac(a web app),
+&lt;li&gt;Vampire(a video game),
+&lt;li&gt;Battlefield 2(a video game),
+&lt;li&gt;Frets on Fire(a video game),
+&lt;li&gt;Bridge commander (a video game),
+        &lt;/ul&gt;
+
+        &lt;p&gt;
+“Python has been used to build many softwares, applications and other things not mentioned here , in the world today .
+        &lt;/p&gt;
+
+
+&lt;b&gt; &lt;h1&gt; HISTORY OF PYTHON &lt;/h1&gt;&lt;/b&gt;
+        &lt;p&gt;
+Python was developed by \"Guido Van Rossum\" at Centrum \”Wiskunde \&amp; Informatica (CWI)\” in the Netherlands.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        He began developing Python in the late 1980s, as a successor to the \”ABC\” programming language, and first released it in 1991 as Python 0.9.0.
+        &lt;/p&gt;
+        &lt;p&gt;
+ Python 2.0 was released in 2000 and introduced new features, such as list comprehensions.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+Later, Python 3.0 was released in 2008 and was a major revision of the language.
+       &lt;/p&gt;
+
+        &lt;p&gt;
+Guido Van Rossum has been the leader as a developer for the python project since the implementation of python in 1989 until 2018 when he vacated from the role as a leader of the project.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        After his vacation as the leader, the python developers elected five developers known as the “Steering Council” to lead the python project.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+ Python is currently developed by the team known as \”Python Software Foundation.\”
+  You may like to view their tweets &lt;a href="https://twitter.com/ThePSF"&gt;@ThePSF&lt;/a&gt;.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+    As a python lover/learner/developer reading this, you have to read the Foreword by the python founder \“Guido Van Rossum\”   where he told a brief history about how he developed python.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+  Anyway, here is the brief talk as he narated in the post:\”This is the foreword I wrote for Mark Lutz\’ book “Programming Python\” (1st ed.), published by O’Reilly.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        As Python\’s creator, I\’d like to say a few words about its origins, adding a bit of personal philosophy.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+Over six years ago, in December 1989, I was looking for a \“hobby\” programming project that would keep
+        me occupied during the week around Christmas. My office (a government-run research lab in Amsterdam)
+        would be closed, but I had a home computer, and not much else on my hands.
+       &lt;/p&gt;
+
+        &lt;p&gt;
+        I decided to write an interpreter for the new scripting language I had been thinking about lately: a
+        descendant of ABC that would appeal to Unix/C hackers.
+        &lt;/p&gt;
+
+        &lt;p&gt;
+        I chose Python as a working title for the project, being in a slightly irreverent mood (and a big fan of Monty Python’s Flying Circus).\”
+        &lt;a href="https://www.python.org/doc/essays/foreword/"&gt;read on&lt;/a&gt;.
+        &lt;/p&gt;
+
+
+
+</string>
+    <string name="C_PLUSPLUS_Overview">
+       &lt;h1&gt; What is &lt;a href="https://isocpp.org/"&gt;C++&lt;/a&gt;? &lt;/h1&gt;
+        &lt;/br&gt;
+
+    C++  is a cross-platform  general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language.
+        &lt;br&gt;
+    It is a multi-paradigm Programming language : procedural, functional, object-oriented, generic, and modular.
+&lt;br&gt;
+    Stroustrup describes C++ as \"a light-weight abstraction programming language [designed] for building and using efficient and elegant abstractions\”; and \“offering both hardware access and abstraction is the basis of C++.
+   &lt;br&gt;
+    &lt;a href="https://stroustrup.com">Bjarne Stroustrup&lt;/a&gt; said:\"C++ is a general-purpose programming language with a bias towards systems programming that:
+         &lt;ul&gt;
+     &lt;li&gt;Is a better C
+     &lt;li&gt;Supports data abstraction
+     &lt;li&gt;Supports object-oriented programming
+     &lt;li&gt;Supports generic programming.
+         &lt;/ul&gt;
+    Or, in other words: C++ is a language for defining and using light-weight abstractions. It has significant strengths in areas where hardware must be handled effectively and there are significant complexity to cope with.
+         &lt;/br&gt;
+        This includes many resource constrained systems and much foundational and infrastructure code.”
+
+
+    &lt;h1&gt; APPLICATIONS OF C++  &lt;/h1&gt;
+         &lt;ul&gt;
+    &lt;li&gt; Operating Systems. Be it Microsoft Windows or Mac OSX or Linux – all of them are programmed in C++.
+    &lt;li&gt;Browsers.
+    &lt;li&gt; Libraries.
+    &lt;li&gt; Graphics.
+    &lt;li&gt; Banking Applications.
+    &lt;li&gt; Cloud/Distributed Systems.
+    &lt;li&gt; Databases.
+    &lt;li&gt; Embedded Systems.
+    &lt;li&gt; Game Development.
+         &lt;/ul&gt;
+    &lt;h1&gt; PRODUCTS OF C++  &lt;/h1&gt;
+         &lt;ul&gt;
+&lt;li&gt;  &lt;a href="http://www.12d.com/"&gt;12D solutions&lt;/a&gt;
+&lt;li&gt;  &lt;a href="http://www.adobe.com/"&gt;Adobe&lt;/a&gt;Systems such as Photoshop \&amp; ImageReady,Illustrator,Acrobat, and more.
+&lt;li&gt;  &lt;a href="http://www.amazon.com/"&gt;amazon&lt;/a&gt; an e-commerce website was built with C++.
+&lt;li&gt;  C++ was also used in Apple OS X .
+&lt;li&gt;  &lt;a href="http://www.bloomberg.com/"&gt;Bloomberg&lt;/a&gt;
+&lt;li&gt;  &lt;a href="http://www.facebook.com/"&gt;Facebook&lt;/a&gt;
+&lt;li&gt;  &lt;a href="http://www.google.com/"&gt;Google&lt;/a&gt;
+&lt;li&gt;  &lt;a href="http://dev.chromium.org/"&gt;Chromium browser&lt;/a&gt;
+&lt;li&gt;  &lt;a href="http://www.mozilla.com/"&gt;Mozilla Firefox&lt;/a&gt;
+&lt;li&gt;  &lt;a href="http://www.mysql.com/">&gt;MySQL server&lt;/a&gt;
+        &lt;/ul&gt;
+                &lt;h1&gt;HISTORY OF C++&lt;/h1&gt;
+    In 1979, Bjarne Stroustrup, a Danish computer scientist, began work on \"C with Classes\", the predecessor to C++,
+
+    What did the developer &lt;a href="https://stroustrup.com"&gt;Bjarne Stroustrup&lt;/a&gt; say about C++? According to him, he said :
+
+        &lt;p&gt;\”I\'m a Technical Fellow and a Managing Director in the technology division of Morgan Stanley in New York City and a Visiting Professor in Computer Science at Columbia University.
+
+    I designed and implemented the C++ programming language. To make C++ a stable and up-to-date base for real-world software development, I have stuck with its ISO standards effort for 30+ years (so far).\"&lt;/p&gt;
+
+
+    You can learn more about what the developer of C++ &lt;a href="https://stroustrup.com"&gt;Bjarne Stroustrup&lt;/a&gt; said all about C++ at &lt;a href="https://stroustrup.com/C++.html"&gt;Stroustrup(C++)&lt;/a&gt; You can find his books in the post.
+    </string>
+    <string name="C_HASHOverview">
+
+        &lt;h1&gt; What is &lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/"&gt;C#&lt;/a&gt;? &lt;/h1&gt;
+        &lt;p&gt;
+    C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
+        According to &lt;a href="https://en.m.wikipedia.org/wiki/C_Sharp_(programming_language)">Wikipedia&lt;/a&gt;
+    C# (pronounced \"See Sharp\") is a modern, object-oriented, and type-safe programming language.
+       &lt;/p&gt;
+        &lt;p&lt;
+        C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.
+        &lt;/p&gt;
+     &lt;p&gt;
+    C# is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components.
+     &lt;/p&gt;
+        &lt;p&gt;
+        Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior.
+        Taken from &lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"&gt;docs.microsoft&lt;/a&gt;
+        &lt;/p&gt;
+
+
+   &lt;h1&gt; APPLICATIONS OF C# &lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt; Mobile apps,
+    &lt;li&gt; Windows Store apps,
+    &lt;li&gt; Enterprise applications.
+    &lt;li&gt; Web applications,
+    &lt;li&gt; Cloud-based-services,
+    &lt;li&gt; Build Android / ioS apps.
+    &lt;li&gt; Windows desktop apps,
+    &lt;li&gt; C# is strongly used for building windows based desktop applications and games.
+        &lt;/ul&gt;
+
+
+     &lt;h1&gt;PRODUCTS OF C#  &lt;/h1&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/WiX" &gt;Windows Installer XML.&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/Microsoft_Visual_Studio"&gt;Microsoft Visual Studio&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/Paint.NET"&gt;Paint.NET&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/Open_Dental"&gt;Open Dental&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/KeePass"&gt;KeePass&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/HandBrake"&gt;Handbrake&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/FlashDevelop"&gt;FlashDevelop.&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/Docky"&gt;Docky&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/Banshee_(media_player)"&gt;Banshee&lt;/a&gt;
+ &lt;li&gt;  &lt;a href="https://en.m.wikipedia.org/wiki/NMath"&gt;NMath&lt;/a&gt;
+
+     &lt;h1&gt;HISTORY OF C#  &lt;/h1&gt;
+    C# was designed by Anders Hejlsberg from Microsoft in 2000.
+         &lt;p&gt;
+    They began the  development process  in January 1999. The language was  first named COOL (C-like Object-Oriented Language). It was developed as a component of the .NET framework initially, followed by its approval by the ECMA.
+    Later on, due to trademark reasons, the language was renamed as C#.
+         &lt;/p&gt;
+         &lt;p&gt;
+ &lt;a href="https://en.m.wikipedia.org/wiki/james_Gosling"&gt;James Gosling &lt;/a&gt; the creator of \”java\” and \”Bill Joy\” the co-founder of Sun Microsystems said that \”C#\” is a copy of \”java\” only that it removed java\’s reliability, security, and productivity.
+        But the creator of C# at Microsoft replied that C# is not a copy of java and that it is much closer in design to C++.
+         &lt;/p&gt;
+
+    You may wish to read more on the history at  &lt;a href="https://en.m.wikipedia.org/wiki/C_Sharp_(programming_language)" &gt;Wikipedia &lt;/a&gt;
+    OR at   &lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history" &gt;docs.microsoft &lt;/a&gt;
+
+    </string>
+    <string name="javaScriptOverview">
+        &lt;h1&gt; What is &lt;a href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/"&gt;JavaScript&lt;/a&gt;? &lt;/h1&gt;
+&lt;p&gt;
+    JavaScript is the Programming Language for the Web.it  can update and change both HTML and CSS. It is a text-based programming language used both on the client-side and server-side that makes web pages interactive.
+&lt;/p&gt;
+&lt;p&gt;
+    It is an interpreted programming language with object-oriented capabilities.
+    JavaScript is a  lightweight programming language and most commonly used as a part of web pages, its implementations allow client-side script to interact with the user and make dynamic pages.
+&lt;/p&gt;
+&lt;p&gt;
+    It is multi-paradigm, supporting event-driven, functional, and imperative programming styles.
+&lt;/p&gt;
+    &lt;h1&gt;APPLICATIONS OF JAVASCRIPT&lt;/h1&gt;
+        &lt;ul&gt;
+   &lt;li&gt; Adding interactive behavior to web pages. JavaScript allows users to interact with web pages.
+   &lt;li&gt; Creating web and mobile apps.
+   &lt;li&gt; Building web servers and developing server applications.
+   &lt;li&gt; Game development.
+   &lt;li&gt; Dynamic webpages,
+        &lt;/ul&gt;
+
+    &lt;h1&gt;PRODUCTS OF JAVASCRIPT&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Almost all the websites in theweb today use javaScript to make it interactive.
+    &lt;li&gt;Facebook (some features in facebook were built with JavaScript).
+    &lt;li&gt; Uber.
+    &lt;li&gt;Netflix ( a media company).
+    &lt;li&gt;LinkedIn.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;HISTORY OF JAVASCRIPT&lt;/h1&gt;
+   &lt;p&gt;
+    JavaScript was first known as LiveScript which was later changed to JavaScript by Netscape. It first appeared in 1995.
+   &lt;br&gt; It was designed by \”Brendan Eich\” at \”Netscape\” in 1995.
+    &lt;/p&gt;
+   &lt;p&gt;
+    The first web browser with a graphical user interface, Mosaic, was released in 1993. Accessible to non-technical people, it played a prominent role in the rapid growth of the nascent World Wide Web.The lead developers of Mosaic then founded the Netscape corporation, which released a more polished browser, Netscape Navigator, in 1994. This quickly became the most-used.
+&lt;/p&gt;
+        &lt;p&gt;
+    During these formative years of the Web, web pages could only be static, lacking the capability for dynamic behavior after the page was loaded in the browser. There was a desire in the burgeoning web development scene to remove this limitation, so in 1995, Netscape decided to add a scripting language to Navigator. They pursued two routes to achieve this: collaborating with Sun Microsystems to embed the Java programming language, while also hiring Brendan Eich to embed the Scheme language.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Netscape management soon decided that the best option was for Eich to devise a new language, with syntax similar to Java and less like Scheme or other extant scripting languages. Although the new language and its interpreter implementation were called LiveScript when first shipped as part of a Navigator beta in September 1995, the name was changed to JavaScript for the official release in December.
+        &lt;/p&gt;
+     visit &lt;a href="https://en.m.wikipedia.org/wiki/JavaScript"&gt;Wikipedia.org&lt;/a&gt; to read the full history .
+    </string>
+    <string name="PHPOverview">
+       &lt;h1&gt; What is &lt;a href="https://www.php.net/"&gt;PHP&lt;/a&gt; &lt;/h1&gt; ?
+   &lt;h4&gt; Developed by \”Rasmus Lerdorf\”. &lt;/h4&gt;
+        &lt;p&gt;
+    PHP is a general-purpose scripting language suited for web development.
+    &lt;/p&gt;
+        &lt;p&gt;
+        It is a multi-paragdim Programming languageie (ie: imperative, functional, object-oriented, procedural, reflective).
+   &lt;/p&gt;
+        &lt;p&gt;
+    Originally, the full meaning is \”Personal Home Page\” , but presently it is known as \”Hypertext Preprocessor\”
+        &lt;/p&gt;
+        &lt;p&gt;
+        PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable.
+        &lt;/p&gt;
+        &lt;p&gt;
+        PHP is fast, flexible and pragmatic,it powers everything from your blog to the most popular websites in the world.
+        &lt;/p&gt;
+
+   &lt;h1&gt; APPLICATIONS OF PHP &lt;/h1&gt;
+         &lt;ul&gt;
+    &lt;li&gt;PHP is used to process forms in a website,
+     &lt;li&gt;Server-side Scripting,
+     &lt;li&gt;Command-Line Scripting.
+     &lt;li&gt;Desktop applications,
+     &lt;li&gt;Outputing images,
+     &lt;li&gt;Generates and saves PDF files,
+     &lt;li&gt;Database for  webpages.
+             &lt;/ul&gt;
+     &lt;h1&gt;PRODUCTS OF PHP  &lt;/h1&gt;
+         &lt;h4&gt;these are companies using PHP:  &lt;/h4&gt;
+         &lt;ul&gt;
+     &lt;li&gt;Yahoo ·
+     &lt;li&gt;Facebook ·
+     &lt;li&gt;Wikipedia ·
+     &lt;li&gt;Tumblr ·
+     &lt;li&gt;WordPress ·
+     &lt;li&gt;MailChimp ·
+     &lt;li&gt;Flickr ·
+     &lt;li&gt;iStockPhoto.
+        &lt;/ul&gt;
+
+     &lt;h1&gt;HISTORY OF PHP  &lt;/h1&gt;
+ &lt;p&gt;
+    PHP development began in 1994 when Rasmus Lerdorf wrote several Common Gateway Interface (CGI) programs in C, which he used to maintain his personal homepage. He extended them to work with web forms and to communicate with databases, and called this implementation \"Personal Home Page/Forms Interpreter\" or PHP/FI.
+ &lt;/p&gt;
+         &lt;p&gt;
+    PHP/FI could be used to build simple, dynamic web applications. To accelerate bug reporting and improve the code, Lerdorf initially announced the release of PHP/FI as “Personal Home Page Tools (PHP Tools) version 1.0” on the Usenet discussion group comp.infosystems.www.authoring.cgi on June 8, 1995.
+     &lt;/p&gt;
+         &lt;p&gt;
+        Early PHP was not intended to be a new programming language, and grew organically, with Lerdorf noting in retrospect: \"I don’t know how to stop it, there was never any intent to write a programming language  I have absolutely no idea how to write a programming language, I just kept adding the next logical step on the way. A development team began to form and, after months of work and beta testing, officially released PHP/FI 2 in November 1997.
+         &lt;/p&gt;
+         &lt;p&gt;
+    The fact that PHP was not originally designed, but instead was developed organically has led to inconsistent naming of functions and inconsistent ordering of their parameters.In some cases, the function names were chosen to match the lower-level libraries which PHP was \"wrapping\", while in some very early versions of PHP the length of the function names was used internally as a hash function, so names were chosen to improve the distribution of hash values.
+     &lt;br&gt;This history was taken from &lt;a href="https://en.m.wikipedia.org/wiki/PHP"&gt;Wikipedia.org&lt;/a&gt; as is. You can visit the site.
+ &lt;/p&gt;
+
+        &lt;p&gt;
+    PHP as it’s known today is actually the successor to a product named PHP/FI, created in 1994 by Rasmus Lerdorf.
+        &lt;/p&gt;
+        &lt;p&gt;
+        The very first incarnation of PHP was a simple set of Common Gateway Interface (CGI) binaries written in the C programming language,
+        &lt;br&gt;originally used for tracking visits to his online resume, he named the suite of scripts \"Personal Home Page Tools\", more frequently referenced as \"PHP Tools\".
+        &lt;/p&gt;
+        &lt;p&gt;
+        Over time, more functionality was desired, and Rasmus rewrote PHP Tools, producing a much larger and richer implementation.
+        &lt;/p&gt;
+        &lt;p&gt;
+        This new model was capable of database interaction and more, providing a framework upon which users could develop simple dynamic web applications such as guestbooks.
+        &lt;/p&gt;
+        &lt;p&gt;
+        In June of 1995, Rasmus released the source code for PHP Tools to the public, which allowed developers to use it as they saw fit.
+        &lt;br&gt;This also permitted – and encouraged – users to provide fixes for bugs in the code, and to generally improve upon it.
+     &lt;br&gt;This was sourced from &lt;a href="https://www.php.net/manual/en/history.php.php"&gt;PHP.net(history)&lt;/a&gt;. You may visit the site to read the full history.
+  &lt;/p&gt;
+    </string>
+    <string name="VB_DOT_NETOverview">
+        &lt;h1&gt; What is &lt;a href="https://docs.microsoft.com/dotnet/visual-basic/"&gt;VB.NET&lt;/a&gt; &lt;/h1&gt;
+     &lt;p&gt;
+        Visual Basic, originally called Visual Basic .NET (VB.NET), is a multi-paradigm, object-oriented programming language, implemented on .NET, Mono, and the .NET Framework.
+    &lt;/p&gt;
+        &lt;p&gt;
+        It is designed and developed by Microsoft.
+    &lt;br&gt;Using Visual Basic makes it fast and easy to create type-safe .NET apps.
+        &lt;/p&gt;
+
+    &lt;h1&gt;APPLICATIONS OF VB.NET&lt;/h1&gt;
+        &lt;p&gt;
+    &lt;li&gt;It can be used to build:
+    &lt;li&gt;Windows console mode applications.
+    &lt;li&gt;Standard Windows applications.
+    &lt;li&gt;Windows services.
+    &lt;li&gt;Windows controls and Windows control libraries.
+    &lt;li&gt;Web (ASP.NET) applications.
+    &lt;li&gt;Web services.
+        &lt;/ul&gt;
+    Visual Basic is often used in conjunction with the Windows Forms GUI library to make desktop apps for Windows. Programming for Windows Forms with Visual Basic involves dragging and dropping controls on a form using a GUI designer and writing corresponding code for each control. Taken from<a href="https://en.m.wikipedia.org/wiki/Visual_Basic_.NET">wikipedia.org</a>
+
+    &lt;h1&gt;PRODUCTS OF VB.NET &lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Access,
+    &lt;li&gt;Excel,
+    &lt;li&gt;PowerPoint,
+    &lt;li&gt;Publisher,
+    &lt;li&gt;Word.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;HISTORY OF VB.NET &lt;/h1&gt;
+        &lt;p&gt;
+    Microsoft launched VB.NET in 2002 as the successor to its original Visual Basic language.
+        &lt;/p&gt;
+        &lt;p&gt;
+    VB 1.0 was introduced in 1991. The approach for connecting the programming language to the graphical user interface is derived from a system called Tripod (sometimes also known as Ruby), originally developed by Alan Cooper, which was further developed by Cooper and his associates under contract to Microsoft. Taken from&lt;a href="https://en.m.wikibooks.org/wiki/Visual_Basic/History"&gt;wikibooks&lt;/a&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+    Note:This particular programming language has been discontinued and no more development to the language. You may learn more from this post <a href="https://qr.ae/pGEkCQ">@Quora.com</a>
+        &lt;/p&gt;
+    </string>
+    <string name="ROverview">
+        &lt;h1&gt; What is &lt;a href="https://www.r-project.org/"&gt;R&lt;/a&gt; &lt;/h1&gt;
+        &lt;ul&gt;
+        &lt;li&gt;R is a Multi-paradigm programming language procedural, object-oriented, functional, reflective, imperative).
+        &lt;li&gt;R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
+        &lt;li&gt; R is a language and environment for statistical computing and graphics.&lt;br&gt; It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT\&amp;T, now Lucent Technologies) by John Chambers and colleagues.&lt;br&gt; R can be considered as a different implementation of S. There are some important differences, but much code written for S runs unaltered under R.
+        &lt;li&gt;R is an integrated suite of software facilities for data manipulation, calculation and graphical display. It includes
+        &lt;li&gt;An effective data handling and storage facility,
+        &lt;li&gt;A suite of operators for calculations on arrays, in particular matrices,
+        &lt;li&gt;A large, coherent, integrated collection of intermediate tools for data analysis,
+        &lt;li&gt;Graphical facilities for data analysis and display either on-screen or on hardcopy, and
+        &lt;li&gt;A well-developed, simple and effective programming language which includes conditionals, loops, user-defined recursive functions and input and output facilities.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;APPLICATIONS OF R&lt;/h1&gt;
+    &lt;li&gt;Finance.
+    &lt;li&gt;Banking,
+   &lt;li&gt; Healthcare.
+    &lt;li&gt;Social Media.
+    &lt;li&gt;E-Commerce.
+    &lt;li&gt;Manufacturing.
+    &lt;li&gt;R is used among data miners and statisticians for data analysis and developing statistical software.
+    &lt;li&gt;R is one of the most commonly used programming language used in data mining.
+    &lt;a href="https://www.r-project.org/about.html"&gt;Learn more&lt;/a&gt;
+
+   &lt;h1&gt; PRODUCTS OF R&lt;/h1&gt;
+    &lt;h4&gt;These are the companies that use \”R\”&lt;/h4&gt;
+    &lt;li&gt;ANZ,
+    &lt;li&gt;Google,
+    &lt;li&gt;Firefox,
+    &lt;li&gt;BOA,
+   &lt;li&gt; LinkedIn,
+    &lt;li&gt;Flipkart, and Amazon.
+
+
+
+    &lt;h1&gt;HISTORY OF R&lt;/h1&gt;
+        &lt;p&gt;
+    The name \”R\” was derived from the initials of the two developers  \” Ross Ihaka and Robert Gentleman .\”  who created the\”R\” programming language. They were statisticians.
+    &lt;br&gt;The language appeared first in August 1993; 28 years ago.
+        &lt;/p&gt;
+        &lt;p&gt;
+        R was first implemented in the early 1990’s by Robert Gentleman and Ross Ihaka, both faculty members at the University of Auckland.
+        &lt;/p&gt;
+        &lt;p&gt;
+        The R language was closely modeled on the S Language for Statistical Computing conceived by John Chambers, Rick Becker, Trevor Hastie, Allan Wilks and others at Bell Labs in the mid 1970s, and made publicly available in the early 1980’s.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Robert and Ross established R as an open source project in 1995.Since 1997, the R project has been managed by the R Core Group. And, in February 2000, came the first release of R.
+        &lt;/p&gt;
+            &lt;br&gt;Read more @ &lt;a href="https://mran.microsoft.com/documents/what-is-r"&gt;mran.microsoft.com&lt;/a&gt;
+
+
+    </string>
+    <string name="SQLOverview">
+        &lt;h1&gt; What is &lt;a href="https://www.iso.org/standard/63555.html"&gt;SQL&lt;/a&gt; &lt;/h1&gt;
+        &lt;p&gt;
+    SQL stands for \”Standard Query Language\”
+        &lt;/p&gt;
+        &lt;p&gt;
+    It is used in programming designed for interacting with  data stored in a relational database management System(RDBMS).
+        &lt;/p&gt;
+    &lt;h1&gt;APPLICATIONS OF SQL&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;It serves as a Data Definition Language (DDL)
+    &lt;li&gt;It serves as a Data Control Language (DCL)
+    &lt;li&gt;It serves as a Data Manipulation Language (DML)
+    &lt;li&gt;It serves as a Client-Server Language \&amp; Structuring Internet Architecture.
+    &lt;li&gt;Development of Back-ends,
+    &lt;li&gt;Database Administration.
+    &lt;li&gt;Used in data Analysis.
+    &lt;li&gt;Used in Marketing.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;PRODUCTS OF SQL&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;IBM DB2,
+    &lt;li&gt;Oracle,
+    &lt;li&gt;Microsoft Access,
+    &lt;li&gt;MySQL, and many more…
+        &lt;/ul&gt;
+
+    &lt;h1&gt;HISTORY OF SQL&lt;/h1&gt;
+        &lt;p&gt;
+    It first appeared in 1974 developed by :&lt;a href="https://en.m.wikipedia.org/wiki/Donald_D._Chamberlin"&gt;Donald D Chamberlin&lt;/a&gt;and &lt;a href="https://en.m.wikipedia.org/wiki/Raymond_F._Boyce"&gt;Raymond F Boyce&lt;/a&gt; at &lt;a href="https://en.m.wikipedia.org/wiki/IBM"&gt;IBM&lt;/a&gt; in the early 1970s.
+        &lt;/p&gt;
+        &lt;p&gt;
+        According to &lt;a href="https://docs.oracle.com/cd/B19306_01/server.102/b14200/intro001.htm"&gt;docs.oracle.com&lt;/a&gt;
+    \” Dr. E. F. Codd published the paper, \“A Relational Model of Data for Large Shared Data Banks\”, in June 1970 in the Association of Computer Machinery (ACM) journal, Communications of the ACM. Codd\’s model is now accepted as the definitive model for relational database management systems (RDBMS).
+        &lt;br&gt;The language, Structured English Query Language (SEQUEL) was developed by IBM Corporation, Inc., to use Codd\’s model. SEQUEL later became SQL (still pronounced \“sequel\”).
+        &lt;br&gt;In 1979, Relational Software, Inc. (now Oracle) introduced the first commercially available implementation of SQL. Today, SQL is accepted as the standard RDBMS language.\”
+        &lt;/p&gt;
+    </string>
+    <string name="GOOverview">
+        &lt;h1&gt; What is &lt;a href="https://go.dev/"&gt;GO&lt;/a&gt; &lt;/h1&gt;
+        &lt;p&gt;
+    Go is a statically typed, compiled programming language designed at Google by its developers : &lt;a href="https://en.m.wikipedia.org/wiki/Robert_Griesemer_(computer_programmer)"&gt;Robert Griesemer&lt;/a&gt;, &lt;a href="https://en.m.wikipedia.org/wiki/Rob_Pike"&gt;Rob Pike&lt;/a&gt;, &lt;a href="https://en.m.wikipedia.org/wiki/Ken_Thompson"&gt;Ken Thompson&lt;/a&gt;.
+        &lt;/p&gt;
+
+        It is a multi-paradigm: concurrent imperative, object-oriented programming language.
+
+    &lt;h1&gt;APPLICATIONS OF GO&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Web Development,
+    &lt;li&gt;Command-Line Interfaces,
+    &lt;li&gt;Cloud and Network Services,
+    &lt;li&gt;DevOps and Site Reliability,
+    &lt;li&gt;Machine learning, and many more…
+        &lt;/ul&gt;
+
+    &lt;h1&gt;PRODUCTS OF GO&lt;/h1&gt;
+    &lt;h4&gt;These are the companies using GO:&lt;/h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Google,
+    &lt;li&gt;Microsoft,
+    &lt;li&gt;Netflix,
+    &lt;li&gt;Uber,
+    &lt;li&gt;Cloud Flare,
+    &lt;li&gt;Twitter, and many more…
+        &lt;/ul&gt;
+
+    &lt;h1&gt;HISTORY OF GO&lt;/h1&gt;
+    \"GO first appeared on November 10, 2009;\"
+        &lt;p&gt;
+    Go was publicly announced in November 2009, and version 1.0 was released in March 2012. Go is widely used in production at Google and in many other organizations and open-source projects.
+        &lt;/p&gt;
+    It was designed at GOOGLE in 2007 to improve productivity of programming.
+&lt;p&gt;
+    According to the website &lt;a href="https//go.dev.com"&gt;go.dev&lt;/a&gt;,it says:
+    \"At the time, no single team member knew Go, but within a month, everyone was writing in Go and we were building out the endpoints.
+        It was the flexibility, how easy it was to use, and the really cool concept behind Go (how Go handles native concurrency, garbage collection, and of course safety+speed.) that helped engage us during the build. Also, who can beat that cute mascot!\"
+&lt;/p&gt;
+    </string>
+    <string name="swiftOverview">
+
+        What is &lt;a href="https://www.swift.org/"&gt;Swift&lt;/a&gt;
+        &lt;p&gt;
+    Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc.
+        &lt;/p&gt;
+        &lt;p&gt;
+        This is a language for building native ios apps . It was developed by apple Inc.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.
+        &lt;/p&gt;
+        &lt;p&gt;
+    The goal of the Swift project is to create the best available language for uses ranging from systems programming, to mobile and desktop apps, scaling up to cloud services. Most importantly, Swift is designed to make writing and maintaining correct programs easier for the developer(definition given by &lt;a href="https://www.swift.org/about/"&gt;swift.org&lt;/a&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+    The Swift language supports the following platforms: Apple’s operating systems (Darwin, iOS, iPadOS, macOS, tvOS, watchOS), Linux, Windows, and Android.
+        &lt;/p&gt;
+    &lt;h1&gt;APPLICATIONS OF SWIFT&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS.
+    &lt;li&gt;It is used for building
+    &lt;li&gt;Mobile apps(mostly on Apple platform)
+    &lt;li&gt;Desktop apps.
+        &lt;/ul&gt;
+    &lt;h1&gt;PRODUCTS OF SWIFT&lt;/h1&gt;
+    &lt;h4&gt;These are the top companies that use swift language:&lt;/h4&gt;
+    &lt;li&gt;Facebook.
+    &lt;li&gt;Uber.
+    &lt;li&gt;Slack.
+    &lt;li&gt;Accenture.
+    &lt;li&gt;Khan Academy.
+    &lt;li&gt;Lyft.
+    &lt;li&gt;LinkedIn.
+    &lt;li&gt;WhatsApp.
+
+    &lt;h1&gt;HISTORY OF SWIFT&lt;/h1&gt;
+        &lt;p&gt;
+    First released in 2014, Swift was developed as a replacement for Apple’s earlier programming language Objective-C.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Announced in 2014, the Swift programming language has quickly become one of the fastest growing languages in history.
+        &lt;/p&gt;
+&lt;a href="https://en.m.wikipedia.org/wiki/Chris_Lattner"&gt;Chris Lattner&lt;/a&gt; started the Development of Swift in July 2010 , in collaboration with many other programmers at Apple.
+       &lt;p&gt;
+        Swift borrowed language ideas from \"Objective-C, Rust, Haskell, Ruby, Python, C#, CLU\”
+        &lt;/p&gt;
+    </string>
+    <string name="perlOverview">
+
+    &lt;h1&gt;What is &lt;a href="https://www.perl.org/"&gt;Perl&lt;/a&gt; &lt;/h1&gt;
+&lt;p&gt;
+    Perl is a family of script programming languages that is similar in syntax to the C language designed by &lt;a href="https://en.m.wikipedia.org/wiki/Larry_Wall"&gt;Larry Wall&lt;/a&gt; .
+&lt;/p&gt;
+ &lt;p&gt;
+        It is a multi paradigm language:  functional, imperative, object-oriented (class-based), reflective.
+ &lt;/p&gt;
+&lt;p&gt;
+        Perl is a general-purpose programming language originally developed for text manipulation .
+&lt;/p&gt;
+   &lt;h1&gt; APPLICATIONS OF PERL&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;System administration,
+    &lt;li&gt;Web development,
+    &lt;li&gt;Network programming,
+    &lt;li&gt;GUI development,
+    &lt;li&gt;Finance,
+    &lt;li&gt;Speech recognition,
+    &lt;li&gt;Text-To-Speech Translation.
+    &lt;li&gt;\”Perl is for text manipulation\”
+        &lt;/ul&gt;
+
+    &lt;h1&gt;PRODUCTS OF PERL&lt;/h1&gt;
+   &lt;h4&gt; These are the top companies that use perl amongst other hundreds of companies not mentioned: &lt;/h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Amazon.
+    &lt;li&gt;Booking.com.
+    &lt;li&gt;MIT.
+    &lt;li&gt;ROBLOX.
+    &lt;li&gt;Venmo.
+    &lt;li&gt;SendGrid.
+    &lt;li&gt;DuckDuckGo.
+    &lt;li&gt;Morgan Stanley.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;HISTORY OF PERL&lt;/h1&gt;
+        &lt;p&gt;
+    Perl  as a general-purpose Unix scripting language was developed by Larry Wall in 1987 to make report processing easier.
+        &lt;br&gt;Since then, it has undergone many changes and revisions.
+       &lt;/p&gt;
+        &lt;p&gt;
+        Raku, which began as a redesign of Perl 5 in 2000, eventually evolved into a separate language.
+        &lt;br&gt;Both languages continue to be developed independently by different development teams and liberally borrow ideas from each other.
+        &lt;/p&gt;
+        &lt;p&gt;
+    In 1987, Larry Wall began work on Perl, while working as a programmer at Unisys, and version 1.0 was released to the comp.sources.unix newsgroup on February 1, 1988.
+        &lt;br&gt;The language expanded rapidly over the next few years.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Perl 2, released in 1988, featured a better regular expression engine. Perl 3, released in 1989, added support for binary data streams.
+    [from &lt;a href="https://en.m.wikipedia.org/wiki/Perl"&gt;wikipedia.org&lt;/a&gt;]
+        &lt;/p&gt;
+
+    </string>
+    <string name="assemblyLanguageOverview">
+
+&lt;h1&gt;What is &lt;a href="https://en.m.wikipedia.org/wiki/Assembly_language"&gt;Assembly Language&lt;/a&gt;&lt;/h1&gt;
+    According to &lt;a href=""&gt;Wikipedia.org&lt;/a&gt;
+        &lt;p&gt;
+    \"In computer programming, assembly language (or assembler language), sometimes abbreviated asm, is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture’s machine code instructions.
+       &lt;/p&gt;
+        &lt;p&gt;
+        Assembly language usually has one statement per machine instruction (1:1), but constants, comments, assembler directives, symbolic labels of, e.g., memory locations, registers, and macros are generally also supported.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Assembly code is converted into executable machine code by a utility program referred to as an assembler.
+        &lt;/p&gt;
+        &lt;p&gt;
+        The term \"assembler\" is generally attributed to Wilkes, Wheeler and Gill in their 1951 book The Preparation of Programs for an Electronic Digital Computer, who, however, used the term to mean “a program that assembles another program consisting of several sections into a single program”.
+        &lt;br&gt;The conversion process is referred to as assembly, as in assembling the source code.
+        &lt;/p&gt;
+        &lt;p&gt;
+        The computational step when an assembler is processing a program is called assembly time.
+        &lt;br&gt;Assembly language may also be called symbolic machine code\" &lt;a href="https://en.m.wikipedia.org/wiki/Assembly_language">read on to Wikipedia.org&lt;/a&gt;
+        &lt;/p&gt;
+
+  &lt;h1&gt;APPLICATIONS OF ASSEMBLY LANGUAGE &lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;The main Application of Assembly Language is for direct hardware manipulation.
+    &lt;li&gt;Typical uses are:
+    &lt;li&gt;Device drivers,
+    &lt;li&gt;Low-level embedded systems,
+    &lt;li&gt;Real-time systems.
+    &lt;li&gt;Computer games requiring direct hardware access.
+    &lt;/ul&gt;
+
+    &lt;h1&gt;PRODUCTS OF ASSEMBLY LANGUAGE &lt;/h1&gt;
+    According to&lt;a href="https://en.m.wikipedia.org/wiki/Assembly_language"&gt;Wikipedia.org&lt;/a&gt;
+    &lt;h4&gt;\”Typical examples of large assembly language programs from this time are:&lt;/h4&gt;
+        &lt;ul&gt;
+        &lt;li&gt;IBM PC DOS operating systems,
+        &lt;li&gt;the Turbo Pascal compiler,
+        &lt;li&gt;and early applications such as the spreadsheet program Lotus 1-2-3.\”
+        &lt;/ul&gt;
+    &lt;h1&gt;HISTORY OF ASSEMBLY LANGUAGE &lt;/h1&gt;
+    It first appeared in 1943.&lt;br&gt;
+        &lt;p&gt;
+    Assembly language was created as an exact shorthand for machine level coding, so that you wouldn’t have to count 0s and 1s all day.
+        &lt;/p&gt;
+        &lt;p&gt;
+        It works the same as machine level code: with instructions and operands.[source:&lt;a href="https://cs.stackexchange.com/questions/13287/why-do-we-need-assembly-language"&gt;stackExchange.com&lt;/a&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+    Assembly Language appeared in 1949 and soon saw wide use in Electronic Delay Storage Automatic Calculators.
+        &lt;/p&gt;
+        &lt;p&gt;
+        The Assembly was a low-level computer language that simplified the language of machine code (ie. The specific instructions necessary to operate a computer).[source:&lt;a href="https://www.learnacademy.org/blog/first-programming-language-use-microsoft-apple/"&gt;Learn Academy&lt;/a&gt;
+        &lt;/p&gt;
+
+    </string>
+    <string name="rubyOverview">
+
+    &lt;h1&gt;What is &lt;a href="https://www.ruby-lang.org/"&gt;Ruby&lt;/a&gt; &lt;/h1&gt;
+        &lt;p&gt;
+        Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.
+        &lt;br&gt;It was designed to enhance programming productivity and simplicity.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Ruby programming language considers  everything as an object, including primitive data types.
+        &lt;/p&gt;
+        &lt;p&gt;
+    It supports multiple programming paradigms, such as : procedural, object-oriented, and functional programming.
+   &lt;br&gt; Ruby is a modern object-oriented language, combining elements of Perl, Smalltalk, and Scheme in a simple yet powerful syntax
+        &lt;/p&gt;
+        &lt;p&gt;
+        Like Perl, Ruby is good at text processing,
+       &lt;br&gt; Like Smalltalk, everything in Ruby is an object, and Ruby has blocks, iterators, meta-classes and other good stuff.
+    &lt;/p&gt;
+        &lt;p&gt;
+        As a fully-integrated object-oriented language, Ruby scales well.
+        &lt;/p&gt;
+    &lt;h3&gt;Ruby features:&lt;/h3&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Simple syntax,
+   &lt;li&gt; Basic OO features (classes, methods, objects, and so on),
+   &lt;li&gt; Special OO features (Mix-ins, singleton methods, renaming, …),
+   &lt;li&gt; Operator overloading,
+   &lt;li&gt; Exception handling,
+   &lt;li&gt; Iterators and closures,
+   &lt;li&gt; Garbage collection,
+   &lt;li&gt; Dynamic loading (depending on the architecture),
+   &lt;li&gt; High transportability (runs on various Unices, Windows, DOS, OSX, OS/2, Amiga, and so on).
+    &lt;/ul&gt;
+        Read more @&lt;a href="https://ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html"&gt;ruby-doc.org&lt;/a&gt;
+
+
+    &lt;h1&gt;APPLICATIONS OF RUBY&lt;/h1&gt;
+    You can use Ruby to write servers, experiment with prototypes, and for everyday programming tasks.
+    &lt;h4&gt;Ruby is used for :&lt;/h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Building desktop applications,
+    &lt;li&gt; Static websites,
+    &lt;li&gt;Data processing services.
+    &lt;li&gt;Automation tools.
+    &lt;li&gt;Web servers,
+    &lt;li&gt;DevOps,
+    &lt;li&gt;Web scraping and crawling.
+        &lt;/ul&gt;
+   &lt;h1&gt; PRODUCTS OF RUBY &lt;/h1&gt;
+    &lt;h4&gt;These are some of the companies that use ruby language:&lt;/h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Github,
+    &lt;li&gt;Shopify,
+    &lt;li&gt;Airbnb,
+    &lt;li&gt;Fiverr,
+    &lt;li&gt;Yellow page,
+    &lt;li&gt;Dribble,
+    &lt;li&gt;Crazy egg, to name a few…
+        &lt;/ul&gt;
+    &lt;h1&gt;HISTORY OF RUBY&lt;/h1&gt;
+        &lt;p&gt;
+    It was developed in the mid-1990s by &lt;a href="https://en.m.wikipedia.org/wiki/Yukihiro_Matsumoto"&gt;Yukihiro \"Matz\" Matsumoto in Japan.&lt;/a&gt;
+    &lt;br&gt;Read full history @&lt;a href="https://en.m.wikipedia.org/wiki/History_of_Ruby"&gt;Wikipedia.org&lt;/a&gt;
+        &lt;/p&gt;
+&lt;p&gt;
+    \”The following is a summary of a post made by Matz in [ruby-talk:00382] on June 4, 1999. (The birthday of Ruby is corrected in [ruby-list:15977]).\”
+&lt;br&gt;
+    \”   Well, Ruby was born on February 24 1993. I was talking with my colleague about the possibility of an object-oriented scripting language.
+        &lt;br&gt;I knew Perl (Perl4, not Perl5), but I didn\’t like it really, because it had smell of toy language (it still has).
+        &lt;br&gt;The object-oriented scripting language seemed very promising.
+    &lt;/p&gt;
+        &lt;p&gt;
+        I knew Python then. But I didn\’t like it, because I didn\’t think it was a true object-oriented language---OO features appeared to be add-on to the language.
+        &lt;/p&gt;
+        &lt;p&gt;
+        As a language manic and OO fan for 15 years, I really wanted a genuine object-oriented, easy-to-use scripting language. I looked for, but couldn\’t find one.
+        &lt;/p&gt;
+        &lt;br&gt;
+        So, I decided to make it. It took several months to make the interpreter run.
+        &lt;br&gt;I put it the features I love to have in my language, such as iterators, exception handling, garbage collection.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Then, I reorganized the features of Perl into a class library, and implemented them.
+       &lt;br&gt; I posted Ruby 0.95 to the Japanese domestic newsgroups in Dec. 1995.
+        &lt;br&gt;Since then, highly active mailing lists have been established and web pages formed.\”
+        &lt;/p&gt;
+    </string>
+    <string name="MATLABOverview">
+
+    &lt;h1&gt;What is &lt;a href="https://www.mathworks.com/products/matlab.html"&gt;MATLAB&lt;/a&gt; &lt;/h1&gt;
+        &lt;p&gt;
+        MATLAB (an abbreviation of \"MATrix LABoratory\") is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks.
+        &lt;/p&gt;
+        &lt;p&gt;
+        MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.[source:&lt;a href="https://en.m.wikipedia.org/wiki/MATLAB"&gt;wikipedia.org&lt;/a&gt;.
+        &lt;/p&gt;
+
+    &lt;h1&gt;APPLICATIONS OF MATLAB&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;MATLAB is intended for numeric computing.
+    &lt;li&gt;Statistics and machine learning(ML),
+    &lt;li&gt;Curve fitting:The curve fitting toolbox helps to analyze the pattern of occurrence of data.
+    &lt;li&gt;Control systems,
+    &lt;li&gt;Signal Processing,
+    &lt;li&gt;Mapping,
+    &lt;li&gt;Deep learning,
+    &lt;li&gt; Financial analysis,
+    &lt;li&gt;Image processing.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;PRODUCTS OF MATLAB&lt;/h1&gt;
+        &lt;h4&gt;companies using MATLAB:&lt;/h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;doubleSlash.
+    &lt;li&gt;AMD.
+    &lt;li&gt;Broadcom.
+    &lt;li&gt;ADEXT.
+    &lt;li&gt;Diffbot.
+    &lt;li&gt;Volvo Cars.
+    &lt;li&gt;Stan.
+    &lt;li&gt;Anki.
+        &lt;/ul&gt;
+
+    &lt;h1&gt;HISTORY OF MATLAB &lt;/h1&gt;
+        &lt;p&gt;
+    As of 2020, MATLAB has more than 4 million users worldwide, they come from various backgrounds of engineering, science, and economics.
+        &lt;/p&gt;
+        &lt;p&gt;
+    MATLAB was invented by mathematician and computer programmer <a href="https://en.m.wikipedia.org/wiki/Cleve_Moler">Cleve Moler.</a>
+        &lt;br&gt;The idea for MATLAB was based on his 1960s PhD thesis.Moler became a math professor at the University of New Mexico and started developing MATLAB for his students as a hobby.
+        &lt;/p&gt;
+        &lt;p&gt;
+        He developed MATLAB’s initial linear algebra programming in 1967 with his one-time thesis advisor, George Forsythe. This was followed by Fortran code for linear equations in 1971.
+        &lt;/p&gt;
+        &lt;p&gt;
+    In the beginning (before version 1.0) MATLAB \”was not a programming language; it was a simple interactive matrix calculator. There were no programs, no toolboxes, no graphics.\”
+        &lt;/p&gt;
+        &lt;p&gt;
+    The first early version of MATLAB was completed in the late 1970s.The software was disclosed to the public for the first time in February 1979 at the Naval Postgraduate School in California.[source:&lt;a href="https://en.m.wikipedia.org/wiki/MATLAB"&gt;Wikipedia.org&lt;/a&gt;
+        &lt;/p&gt;
+
+    </string>
+    <string name="apacheGroovyOverview">
+
+   &lt;h1&gt; What is &lt;a href="https://groovy-lang.org/"&gt;Apache Groovy&lt;/a&gt;?
+        &lt;p&gt;
+    &lt;h5&gt;Api reference= &lt;a href="https://docs.groovy-lang.org/latest/html/groovy-jdk/"&gt;docs.groovy-lang.org&lt;/a&gt; &lt;/h5&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+    Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform. It is both a static and dynamic language with features similar to those of Python, Ruby, and Smalltalk.
+        &lt;/p&gt;
+        &lt;p&gt;
+        It can be used as both a programming language and a scripting language for the Java Platform, is compiled to Java virtual machine (JVM) bytecode, and interoperates seamlessly with other Java code and libraries.
+       &lt;/p&gt;
+            &lt;p&gt;
+        Groovy uses a curly-bracket syntax similar to Java’s. Groovy supports closures, multiline strings, and expressions embedded in strings.
+        &lt;br&gt;Much of Groovy’s power lies in its AST transformations, triggered through annotations.[source:&lt;a href="https://en.m.wikipedia.org/wiki/Apache_Groovy"&gt;Wikipedia.org&lt;/a&gt;.]
+            &lt;/p&gt;
+        &lt;p&gt;
+    \"Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity.
+       &lt;/p&gt;
+        &lt;p&gt;
+        It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.\" [source:<a href="https://groovy-lang.org">groovy-lang.org</a>.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Groovy is better known as a new age advanced substitute of Java.
+        &lt;/p&gt;
+    &lt;h1&gt;APPLICATIONS OF APACHE GROOVY&lt;/h1&gt;
+    It can be used as both programming language and a Scripting language for Java platform.
+    &lt;h4&gt;It can be used for:&lt;/h4&gt;
+   &lt;ul&gt;
+    &lt;li&gt;Developing desktop applications,
+    &lt;li&gt; Writing embedded system software,
+    &lt;li&gt; Developing web-applications .
+    &lt;/ul&gt;
+
+    &lt;h1&gt; PRODUCTS OF APACHE GROOVY &lt;/h1&gt;
+    &lt;h4&gt;These are some of the companies that use APACHE GROOVY: &lt;/h4&gt;
+&lt;ul&gt;
+   &lt;li&gt; Google,
+   &lt;li&gt; Netflix,
+   &lt;li&gt; IBM,
+   &lt;li&gt; Linkedln,
+   &lt;li&gt; Mastercard,
+   &lt;li&gt; Sony,
+   &lt;li&gt; Oracle, and many more…
+&lt;/ul&gt;
+
+   &lt;h1&gt; HISTORY OF APACHE GROOVY &lt;/h1&gt;
+        &lt;p&gt;
+    It was designed by &lt;a href="https://www.wikiwand.com/en/James_Strachan_(programmer)"&gt;James Strachan&lt;/a&gt; and first appeared in 2003.
+        &lt;/p&gt;
+        &lt;p&gt;
+    He first talked about it on 2003, in his blog and later submitted it to Java Community Process in 2004 and was approved by ballot.
+        &lt;/p&gt;
+
+    </string>
+    <string name="objectCOverview">
+
+   &lt;h1&gt; What is &lt;a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"&gt;Object-C&lt;/a&gt; &lt;/h1&gt;
+&lt;p&gt;
+    Objective-C is the primary programming language you use when writing software for OS X and iOS.
+&lt;/p&gt;
+        &lt;p&gt;
+        It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Objective-C inherits the syntax, primitive types, and flow control statements of C and adds syntax for defining classes and methods.
+       &lt;/p&gt;
+        &lt;p&gt;
+        It also adds language-level support for object graph management and object literals while providing dynamic typing and binding, deferring many responsibilities until runtime.
+        &lt;/p&gt;
+        &lt;p&gt;
+    When building apps for OS X or iOS, you’ll spend most of your time working with objects.
+        &lt;br&gt;Those objects are instances of Objective-C classes, some of which are provided for you by Cocoa or Cocoa Touch and some of which you’ll write yourself.
+        &lt;/p&gt;
+        &lt;a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1"&gt;Learn more&lt;/a&lt;
+
+    &lt;h1&gt;APPLICATIONS OF OBJECTIVE-C&lt;/h1&gt;
+    It is used for developing &lt;a href="https://en.m.wikipedia.org/wiki/MacOS"&gt;macOs&lt;/a&gt; and iOS Applications.
+
+     &lt;h1&gt;PRODUCTS OF OBJECTIVE-C &lt;/h1&gt;
+    Briefly, Objective-C has been used to build probably millions if not billions of apps on iOS platform.
+
+
+     &lt;h1&gt;HISTORY OF OBJECTIVE-C &lt;/h1&gt;
+         &lt;p&gt;
+    It was developed by Tom Love and Brad Cox in the early 1980s and first appeared in 1984.
+     &lt;/p&gt;
+         &lt;p&gt;
+    The story of Objective-C and NeXT shows how much influence users can have on the development of a technology.
+         &lt;/p&gt;
+         &lt;p&gt;
+        Until 1995, Objective-C was owned and produced by Stepstone, and NeXT was its user. Nevertheless, NeXT was able to have Objective-C modified to suit its needs, eventually taking over as its developer.
+         &lt;/p&gt;
+         &lt;p&gt;
+        Brad Cox and Tom Love were Objective-C’s inventors, but it was Steve Naroff, Blaine Garst, Bertrand Serlet, and others at NeXT who transformed it into the language behind the iPhone today.[source:&lt;a href="https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd"&gt;medium&lt;/a&gt;] by &lt;a href="https://medium.com/@hhsu?source=follow_footer-----aff9d2bde8dd"&gt;Hansen Hsu&lt;/a&gt; . You may visit the site and read more.
+             &lt;/p&gt;
+
+
+    </string>
+    <string name="rustOverview">
+
+    What is &lt;a href="https://doc.rust-lang.org/book/ch00-00-introduction.html"&gt;Rust&lt;/a&gt;?
+    &lt;p&gt;
+    Rust is a statically-typed programming language designed for performance and safety, especially safe concurrency and memory management.
+    &lt;/p&gt;
+         &lt;p&gt;
+    Rust has been called a system programming language and in addition to high-level features such as functional programming,
+         &lt;br&gt;it also offers mechanisms for low-level memory management.
+         &lt;/p&gt;
+     &lt;h1&gt;APPLICATIONS OF RUST &lt;/h1&gt;
+     &lt;p&gt;
+        Hundreds of companies around the world are using Rust in production today for fast, low-resource, cross-platform solutions.
+         &lt;br&gt;Software you know and love, like Firefox, Dropbox, and Cloudflare, uses Rust.
+         &lt;/p&gt;
+         &lt;p&gt;
+        From startups to large corporations, from embedded devices to scalable web services, Rust is a great fit.
+         &lt;/p&gt;
+        &lt;h4&gt; Rust is used for: &lt;/h4&gt;
+         &lt;p&gt;
+    Software applications such as game engines, operating systems, file systems, browser components and simulation engines for virtual reality.
+         &lt;/p&gt;
+     &lt;h1&gt;PRODUCTS OF RUST  &lt;/h1&gt;
+    &lt;h1&gt; These are companies that use rust in their platform:  &lt;/h4&gt;
+         &lt;ul&gt;
+    &lt;li&gt; Dropbox.
+    &lt;li&gt; Coursera.
+    &lt;li&gt; Figma. Npm.
+    &lt;li&gt; Microsoft.
+    &lt;li&gt; Cloudflare.
+    &lt;li&gt; Facebook.
+    &lt;li&gt; Amazon.
+    &lt;li&gt; Discord.
+         &lt;/ul&gt;
+
+    &lt;h1&gt; HISTORY OF RUST  &lt;/h1&gt;
+         &lt;p&gt;
+    Rust was designed by Graydon Hoare at Mozilla research and first appeared in 2010.
+         &lt;/p&gt;
+         &lt;p&gt;
+    Rust has been voted the “most loved programming language” in the Stack Overflow.
+         &lt;/p&gt;
+         &lt;p&gt;
+    The language grew out of a personal project begun in 2006 by Mozilla employee Graydon Hoare.
+         &lt;/p&gt;
+         &lt;p&gt;
+        Hoare has stated that the project was possibly named after rust fungi and that the name is also a subsequence of \"robust\".
+        &lt;/p&gt;
+         &lt;p&gt;
+        Mozilla began sponsoring the project in 2009 and announced it in 2010.The same year, work shifted from the initial compiler (written in OCaml) to an LLVM-based self-hosting compiler written in Rust. Named rustc, it successfully compiled itself in 2011.[source:&lt;a href="https://en.m.wikipedia.org/wiki/Rust_(programming_language)"&gt;wikipedia.org&lt;/a&gt;
+         &lt;/p&gt;
+
+
+    </string>
+    <string name="SASOverview">
+
+     &lt;h1&gt;What is &lt;a href="https://en.m.wikipedia.org/wiki/SAS_language"&gt;SAS&lt;/a&gt;?  &lt;/h1&gt;
+  &lt;p&gt;
+    The SAS language is a computer programming language used for statistical analysis, created by &lt;a href="https://en.m.wikipedia.org/wiki/Anthony_James_Barr">Anthony James Barr&lt;/a&gt; at North Carolina State University.
+   &lt;/p&gt;
+         &lt;p&gt;
+        It can read in data from common spreadsheets and databases and output the results of statistical analyses in tables, graphs, and as RTF, HTML and PDF documents.
+         &lt;/p&gt;
+         &lt;p&gt;
+        The SAS language runs under compilers that can be used on Microsoft Windows, Linux, and various other UNIX and mainframe computers.
+         &lt;/p&gt;
+         &lt;p&gt;
+        The SAS System and World Programming System (WPS) are SAS language compilers.
+         &lt;/p&gt;
+         &lt;p&gt;
+        SAS is an integrated software suite for advanced analytics, business intelligence, data management, and predictive analytics.
+         &lt;br&gt;You can use SAS software through both a graphical interface and the SAS programming language, or Base SAS.
+         &lt;/p&gt;
+
+     &lt;h1&gt;APPLICATIONS OF SAS  &lt;/h1&gt;
+         &lt;ul&gt;
+     &lt;li&gt;Data analysis,
+     &lt;li&gt;Business intelligence,
+     &lt;li&gt; Data management,
+         &lt;/ul&gt;
+     &lt;h4&gt;You can use SAS to do the following: &lt;/h4&gt;
+         &lt;ul&gt;
+    &lt;li&gt; Access data in almost any format, including SAS tables, Microsoft Excel tables, and database files.
+
+     &lt;li&gt;Manage and manipulate your existing data to get the data that you need. For example, you can subset your data, combine it with other data, and create new columns.
+
+    &lt;li&gt; Analyze your data using statistical techniques ranging from descriptive measures like correlations to logistic regression and mixed models to sophisticated methods such as modern model selection and Bayesian hierarchical models.
+
+    &lt;li&gt; Present the results of your analyses in a meaningful report that you can share with others. The reports that you create can be saved in a wide variety of formats, including HTML, PDF, and RTF.
+             &lt;/ul&gt;
+        &lt;a href="https://support.sas.com/software/products/sas-studio/faq/SAS_whatis.htm"&gt;Read more&lt;/a&gt;
+
+
+
+
+    &lt;h1&gt; HISTORY OF SAS  &lt;/h1&gt;
+         &lt;p&gt;
+    The SAS programming language and core products were created at North Carolina State University in the early 1970s to help with analyzing agricultural research data.
+         &lt;/p&gt;
+         &lt;p&gt;
+        In 1976, SAS Institute Inc. was formed to bring the language and products to the wider world.
+         &lt;/p&gt;
+
+
+    </string>
+    <string name="scratchOverview">
+
+   &lt;h1&gt; What is &lt;a href="https://scratch.mit.edu/"&gt;Scratch&lt;/a&gt; &lt;/h1&gt;
+        &lt;p&gt;
+        Scratch is a high-level block-based visual programming language and website targeted primarily at children 8–16 as an educational tool for programming.
+         &lt;/p&gt;
+        &lt;p&gt;
+        Users on the site, called Scratchers, can create projects on the website using a block-like interface.
+        &lt;/p&gt;
+        &lt;p&gt;
+    It is a drag-and-drop programming language for children designed to create things such as games, animations, platform games, clicker games.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Projects can be exported to HTML5, Android apps and EXE files using external tools. The service is developed by the MIT Media Lab, has been translated into 70+ languages, and is used in most parts of the world.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Scratch is taught and used in after-school centers, schools, and colleges, as well as other public knowledge institutions.
+       &lt;/p&gt;
+        &lt;p&gt;
+        As of December 2021, community statistics on the language\'s official website show more than 92 million projects shared by over 82 million users, 638 million total projects ever created, and more than 100 million monthly website visits.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Scratch takes its name from a technique used by disk jockeys called \"scratching\", where vinyl records are clipped together and manipulated on a turntable to produce different sound effects and music.
+       &lt;/p&gt;
+        &lt;p&gt;
+        Like scratching, the website lets users mix together different media (including graphics, sound, and other programs) in creative ways by creating and ‘remixing’ projects, like video games, animations, and simulations.
+    &lt;br&gt;[source:&lt;a href="https://en.m.wikipedia.org/wiki/Scratch_(programming_language)"&gt;Wikipedia.org&lt;/a&gt;
+        &lt;/p&gt;
+
+    &lt;h1&gt;APPLICATIONS OF SCRATCH&lt;/h1&gt;
+        &lt;ul&gt;
+    &lt;li&gt;It is used for creating interactive stories,
+    &lt;li&gt; It is used for games,
+    &lt;li&gt;Also for art,
+    &lt;li&gt;Also for  simulations.
+    &lt;li&gt;Also for creating entertainment programs.
+        &lt;/ul&gt;
+
+   &lt;h1&gt; PRODUCTS OF SCRATCH &lt;/h1&gt;
+        &lt;ul&gt;
+&lt;li&gt; &lt;a href="https://scratch.mit.edu/projects/60917032/"&gt;Appel&lt;/a&gt;
+&lt;li&gt; &lt;a href="https://scratch.mit.edu/projects/10128067"&gt;Dance party&lt;/a&gt;.
+&lt;li&gt; &lt;a href="https://scratch.mit.edu/projects/10128515"&gt;Pong partner&lt;/a&gt;
+&lt;li&gt; &lt;a href="https://scratch.mit.edu/projects/10015857"&gt;Paint with Gobo&lt;/a&gt;
+&lt;li&gt; &lt;a href="https://scratch.mit.edu/projects/10015792"&gt;Remix the dance&lt;/a&gt;
+&lt;li&gt; &lt;a href="https://scratch.mit.edu/projects/10014866"&gt;5 Random facts about me&lt;/a>&gt;
+        &lt;/ul&gt;
+        &lt;h1&gt; HISTORY OF SCRATCH&lt;/h1&gt;
+        &lt;p&gt;
+    In the early 2000s, the MIT Media Lab’s Lifelong Kindergarten group (LLK) was developing visual programming languages targeted towards children.
+       &lt;/p&gt;
+        &lt;p&gt;
+        In 2003, Mitchel Resnick, Yasmin Kafai, and John Maeda were awarded a National Science Foundation grant for the development of a new programming environment for children to express themselves with code.
+        &lt;/p&gt;
+        &lt;p&gt;
+        The LLK, led by Mitchel Resnick, in partnership with Yasmin Kafai’s team at UCLA worked closely with Computer Clubhouses in Boston and Los Angeles to develop Scratch, grounding its design in the practices and social dynamics of these after-school youth centers.
+       &lt;/p&gt;
+        &lt;p&gt;
+        It started as a basic programming language, with no labeled categories and no green flag. Similar to AgentSheets,  Scratch employed concepts of Tactile Programming later known as blocks-based programming. Scratch was made with the intention to teach kids to program [source:&lt;a href=""&gt;Wikipedia.org&lt;/a&gt;]
+        &lt;/p&gt;
+
+
+    </string>
+    <string name="DOverview">
+
+    &lt;h1&gt; What is &lt;a href="https://dlang.org/"&gt;D&lt;/a&gt; ? &lt;/h1&gt;
+        &lt;p&gt;
+    D is a general-purpose programming language with static typing, systems-level access, and C-like syntax.
+        &lt;br&gt;D Programming Language is write fast, read fast, and run fast.
+        &lt;/p&gt;
+        &lt;p&gt;
+    The design goals of the language attempted to combine the performance and safety of compiled languages with the expressive power of modern dynamic languages.
+               &lt;br&gt; The language as a whole is not memory-safe.
+        &lt;/p&gt;
+   &lt;h1&gt; APPLICATIONS OF D &lt;/h1&gt;
+        &lt;h4&gt; D is used for: &lt;h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Games,
+     &lt;li&gt;Language interpreters,
+     &lt;li&gt;Virtual machines,
+     &lt;li&gt;An operating system kernel,
+     &lt;li&gt;GPU programming,
+     &lt;li&gt;Web development,
+     &lt;li&gt;Numerical analysis,
+     &lt;li&gt;GUI applications,
+     &lt;li&gt;A passenger information system,
+     &lt;li&gt;Machine learning,
+     &lt;li&gt;Text processing,
+     &lt;li&gt;Web and application servers and research.
+        &lt;/ul&gt;
+
+     &lt;h1&gt;PRODUCTS OF D  &lt;/h1&gt;
+&lt;a href="https://dlang.org/blog/2017/05/24/faster-command-line-tools-in-d/"&gt;Ebay&lt;/a&gt;
+&lt;a href="https://dconf.org/2017/talks/watson.html"&gt;Remedy&lt;/a&gt;
+&lt;a href="https://dconf.org/2016/talks/lucarella.html"&gt;Sociomatic&lt;/a&gt;
+&lt;a href="https://medium.com/@NetflixTechBlog/introducing-vectorflow-fe10d7f126b8"&gt;Netflix&lt;/a&gt;
+&lt;a href="http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html"&gt;Androll&lt;/a&gt;
+&lt;a href="https://dconf.org/2016/talks/zvibel.html"&gt;Weka&lt;/a&gt;
+
+     &lt;h1&gt;HISTORY OF D  &lt;/h1&gt;
+         &lt;p&gt;
+    D(Dlang) programming language  was created by &lt;a href="https://en.m.wikipedia.org/wiki/Walter_Bright"&gt;Walter Bright&lt;/a&gt; at Digital Mars and released in 2001. &lt;a href="https://en.m.wikipedia.org/wiki/Andrei_Alexandrescu"&gt;Andrei Alexandrescu&lt;/a&gt; joined the design and development effort in 2007.
+         &lt;/p&gt;
+
+    </string>
+    <string name="dartOverview">
+
+    &lt;h1&gt; What is &lt;a href="https://dart.dev/overview"&gt;Dart&lt;/a&gt;  &lt;/h1&gt;
+        &lt;p&gt;
+        Dart is a programming language designed for client development, such as for the web and mobile apps.
+         &lt;/p&gt;
+         &lt;p&gt;
+        It is developed by Google and can also be used to build server and desktop applications.
+         &lt;/p&gt;
+         &lt;p&gt;
+    It is Multi-paradigm: functional, imperative, object-oriented, reflective .
+         &lt;/p&gt;
+         &lt;p&gt;
+    Dart is a client-optimized language for fast apps on any platform.
+         &lt;/p&gt;
+         &lt;p&gt;
+    Dart is an open-source, general-purpose, object-oriented programming language with C-style syntax.
+         &lt;/p&gt;
+         &lt;p&gt;
+    Dart is an open source, purely object-oriented, optionally typed, and a class-based language which has excellent support for functional as well as reactive programming.
+         &lt;/p&gt;
+         &lt;p&gt;
+        Unlike C# or Java, Dart is not bloated at all. In fact, it’s a relatively simple, modern and highly efficient language to work with.
+         &lt;/p&gt;
+         &lt;p&gt;
+    Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
+         &lt;/p&gt;
+     &lt;h1&gt;APPLICATIONS OF DART  &lt;/h1&gt;
+         &lt;ul&gt;
+     &lt;li&gt; Web applications,
+     &lt;li&gt;Desktop applications,
+     &lt;li&gt;Mobile applications,
+     &lt;li&gt;Server programs.
+         &lt;/ul&gt;
+         &lt;p&gt;
+    The big benefit of building apps with Dart and Flutter is that it is cross-platform. It means that you can build an app with just one code base instead of building two separate apps for iPhone and Android.
+         &lt;/p&gt;
+    &lt;h1&gt; PRODUCTS OF DART &lt;/h1&gt;
+     &lt;h4&gt; Companies using dart are: &lt;/h4&gt;
+        &lt;ul&gt;
+    &lt;li&gt;Google,
+    &lt;li&gt;Mews,
+    &lt;li&gt;Ag Flow,
+    &lt;li&gt;Blossom,  and so on..\.
+        &lt;/ul&gt;
+
+    &lt;h1&gt; HISTORY OF DART&lt;/h1&gt;
+        &lt;p&gt;
+    It was designed by &lt;a href="https://en.m.wikipedia.org/wiki/Lars_Bak_(computer_programmer)"&gt;Lars Bak&lt;/a&gt;  and kasper Lund and first appeared in October 10, 2011 being developed by GOOGLE.
+         &lt;/p&gt;
+         &lt;p&gt;
+        Dart 1.0 was released on November 14, 2013 and in August 2018, Dart 2.0 was released, with language changes including a sound type system.
+         &lt;/p&gt;
+
+    </string>
+    <string name="PL_SLASH_SQL_OverView">
+
+    &lt;h1&gt; What is&lt;a href="https://docs.oracle.com/cd/A57673_01/DOC/server/doc/SCN73/ch11.htm#pl/sql"&gt;PL/SQL&lt;/a&gt;  &lt;/h1&gt;
+         &lt;p&gt;
+    PL/SQL is Oracle\'s procedural language extension to SQL. PL/SQL allows you to mix SQL statements with procedural constructs.
+        &lt;/p&gt;
+         &lt;p&gt;
+        PL/SQL provides the capability to define and execute PL/SQL program units such as procedures, functions, and packages.
+         &lt;/p&gt;
+         &lt;p&gt;
+        PL/SQL program units generally are categorized as anonymous blocks and stored procedures.
+         &lt;/p&gt;
+         &lt;p&gt;
+    An anonymous block is a PL/SQL block that appears within your application and it is not named or stored in the database.
+         &lt;br&gt;In many applications, PL/SQL blocks can appear wherever SQL statements can appear.
+     &lt;/p&gt;
+         &lt;p&gt;
+    PL/SQL is a combination of SQL along with the procedural features of programming languages.
+         &lt;/p&gt;
+         &lt;p&gt;
+    PL/SQL provides a built-in, interpreted and OS independent programming environment.
+         &lt;/p&gt;
+         &lt;p&gt;
+    PL/SQL can also directly be called from the command-line SQL*Plus interface.
+         &lt;/p&gt;
+    &lt;h1&gt; APPLICATIONS OF PL/SQL  &lt;/h1&gt;
+     &lt;h4&gt;It is used to:  &lt;/h4&gt;
+         &lt;ul&gt;
+     &lt;li&gt;Query,
+     &lt;li&gt;Transform,
+     &lt;li&gt;And update data in a database.
+         &lt;/ul&gt;
+         &lt;p&gt;
+    PL/SQL lets you use all SQL data manipulation, cursor control, and transaction control statements, and all SQL functions, operators, and pseudocolumns.
+         &lt;/p&gt;
+
+   &lt;h1&gt;  PRODUCTS OF PL/SQL  &lt;/h1&gt;
+      &lt;h4&gt;These are some of the companies using pl/sql:  &lt;/h4&gt;
+&lt;a href="https://stackshare.io/via-varejo/viavarejo"&gt;ViaVarejo&lt;/a&gt;
+&lt;a href="https://stackshare.io/dreamentum/dreamentum"&gt;DREAMENTUM&lt;/a&gt;
+&lt;a href="http://www.insoft.com"&gt;Insoft.&lt;/a&gt;
+&lt;a href="https://stackshare.io/cube/cube"&gt;Cube&lt;/a&gt;
+
+
+     &lt;h1&gt;HISTORY OF PL/SQL  &lt;/h1&gt;
+         &lt;p&gt;
+    It was developed by Oracle Corporation in the early 90’s to enhance the capabilities of SQL.
+         &lt;/p&gt;
+
+    </string>
+    <string name="logoOverview">
+
+ &lt;h1&gt; What is &lt;a href="http://www.logofoundation.org/"&gt;Logo&lt;/a&gt;  &lt;/h1&gt;
+    &lt;p&gt;
+    Logo is an interpreted programming language.
+    &lt;br&gt; Logo is not case-sensitive but retains the case used for formatting purposes.
+     &lt;/p&gt;
+     &lt;p&gt;
+        Logo is widely known for its use of turtle graphics, in which commands for movement and drawing produced line or vector graphics, either on screen or with a small robot termed a turtle.
+     &lt;/p&gt;
+
+     &lt;h1&gt; APPLICATIONS OF LOGO &lt;/h1&gt;
+&lt;p&gt;
+    Logo is a simple computer programming language which can be used to control devices.
+        &lt;br&gt;For example, a small robot known as a turtle can be moved around the floor using logo.
+        &lt;br&gt;Logo is often used with a screen turtle, which is an object on the screen used to simulate how a turtle moves around the floor.
+        &lt;br&gt;It is used Mostly for graphics.
+&lt;/p&gt;
+
+    &lt;h1&gt; PRODUCTS OF LOGO &lt;/h1&gt;
+&lt;a href="https://en.m.wikipedia.org/wiki/Turtle_graphics"&gt;Turtle graphics&lt;/a&gt;
+&lt;a href="https://en.m.wikipedia.org/wiki/File:Tartapelago_Bicicardio_01.gif"&gt;Turtle.gif&lt;/a&gt;
+
+        &lt;h1&gt; HISTORY OF LOGO &lt;/h1&gt;
+   &lt;p&gt;
+        &lt;p&gt;
+    Logo was created in 1967 at Bolt, Beranek and Newman.
+   &lt;br&gt; It was created by&lt;a href="https://en.m.wikipedia.org/wiki/Wally_Feurzeig">Wally Fuerzeig&lt;/a&gt;, &lt;a href="https://en.m.wikipedia.org/wiki/Cynthia_Solomon"&gt;Cynthia Solomon&lt;/a&gt; and &lt;a href="https://en.m.wikipedia.org/wiki/Seymour_Papert"&gt;Seymour Papert&lt;/a&gt;
+&lt;/p&gt;
+        &lt;p&gt;
+    Logo is more than a programming language. It is a learning environment where children explore mathematical ideas and create projects of their own design.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Logo, the first computer language explicitly designed for children, was invented by Seymour Papert, Wallace Feurzeig, Daniel Bobrow, and Cynthia Solomon in 1966 at Bolt, Beranek and Newman.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Logo’s design drew upon two theoretical frameworks: Jean Piaget’s constructivism and Marvin Minsky’s artificial intelligence research at MIT.
+       &lt;/p&gt;
+        &lt;p&gt;
+        One of Logo\'s foundational ideas was that children should have a powerful programming environment.
+        &lt;br&gt;Early Lisp served as a model with its symbolic computation, recursive functions, operations on linked lists, and dynamic scoping of variables.
+        &lt;/p&gt;
+        &lt;p&gt;
+    Logo became a symbol for change in elementary mathematics education and in the nature of school itself.
+       &lt;/p&gt;
+        &lt;p&gt;
+        The search for harnessing the computer’s potential to provide new ways of teaching and learning became a central focus and guiding principle in the Logo language development as it encompassed a widening scope that included natural language, music, graphics, animation, story telling, turtle geometry, robots, and other physical devices.[source: &lt;a href="https://dl.acm.org/doi/10.1145/3386329"&gt;dl.acm.org&lt;/a&gt;
+        &lt;/p&gt;
+
+
+    </string>
+
+
+</resources>

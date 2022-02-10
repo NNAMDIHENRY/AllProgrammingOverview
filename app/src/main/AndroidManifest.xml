@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jointhehead.allprogrammingoverview">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AllProgrammingOverview">
+        <activity
+            android:name=".VHDLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VerilogLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ValaLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SpataLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SPARK_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".S_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RPG_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RingLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RedLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RacketLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Q_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PostScriptLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PL_SLASH_I_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".OzLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".OpenCLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NXTGLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NATURALLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MQL4LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MercuryLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MapleLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LiveCodeLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LadderLogicLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LabVIEWLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".KornShellLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".IoLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".InformLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".IDLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".IconLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GenieLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ForthLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FHASHLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".EuphorialLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ErlangLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".EmacsLispLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ElixirLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CTLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CrystalLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CommonLispLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CoffeeSCRIPTLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CloujureLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ClipperLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CShellLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BourneShellLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".bcLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BashLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AutoLispLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".APLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AliceLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ABCLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SmallTalkLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TclLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ActionScriptLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AWKLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TypeScriptLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VisualFoxPro"
+            android:exported="true" />
+        <activity
+            android:name=".VBScriptLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HackLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HaskellLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FortranLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LuaLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ApexLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LispLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AdaLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PrologLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TransactSQLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ScalaLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ABAPLanguageAcitvity"
+            android:exported="true" />
+        <activity
+            android:name=".JuliaLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".OpenEdgeABLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".KotlinLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CobolLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DelphiLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LogoLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PL_SQL_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DartLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".D_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ScratchLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SAS_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RustLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ObjectCLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ApacheGroovyLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ClassicVisualBasicLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MATLABLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RubyLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AssemblyLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PerlLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SwiftLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GO_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SQLLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".R_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VB_DOT_NETLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PHPLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".JavaScriptLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".C_HASHLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PythonLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".C_PLUSPLUSLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".C_LanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".JavaLanguageActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MakeMoneyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LanguageListActivity_1"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
